@@ -29,15 +29,13 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia e por transformar idei
 ## 📊 Minhas estatísticas no GitHub
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pablo-ads-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-ads-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=pablo-ads-dev&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
-
-> A "nota" (rank A+, A, B+...) no primeiro card é calculada pelo github-readme-stats com base em commits, PRs, issues, reviews e estrelas recebidas — é isso que costuma aparecer nos perfis mais "badge-heavy" do GitHub.
 
 ---
 
