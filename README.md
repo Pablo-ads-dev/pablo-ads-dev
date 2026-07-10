@@ -29,7 +29,7 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia e por transformar idei
 ## 📊 Minhas estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablo-ads-dev&theme=tokyo-night" />
+  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=pablo-ads-dev&theme=tokyo-night" />
   <img src="https://streak-stats.demolab.com/?user=pablo-ads-dev&theme=tokyonight&hide_border=true" alt="streak stats"/>
 
    <!-- 
