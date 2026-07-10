@@ -56,10 +56,6 @@ Em breve...
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=pablo-ads-dev&color=blue&style=flat-square"/>
-</p>
-
-<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pablo-ads-dev/pablo-ads-dev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pablo-ads-dev/pablo-ads-dev/output/github-snake.svg" />
