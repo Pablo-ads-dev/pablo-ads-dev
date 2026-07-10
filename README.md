@@ -18,7 +18,11 @@ class AboutMe
     public string $profession = "Full Stack Developer";
 
     public array $preferredTechStack = ["php", "mysql", "javascript"];
-    public array $canUse = ["react", "docker", "postgres", "mongodb"];
+    public array $backend = ["PHP","Java","Node.js"];
+    public array $frontend = ["JavaScript","React","jQuery","Bootstrap","HTML5","CSS3"];
+    public array $database = ["MySQL","PostgreSQL","MongoDB"];
+    public array $tools = ["Git","GitHub","Docker","Postman"];
+    public array $knowledge = ["REST APIs","JSON","XML","NFS-e","NFC-e","NFe","SQL Optimization"];
 
     public string $motto = "Bom software = boas práticas + colaboração + entrega de valor";
 }
