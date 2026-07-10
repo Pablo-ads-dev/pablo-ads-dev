@@ -64,6 +64,36 @@ Em breve...
 
 ---
 
+## 🔌 Integrações de APIs
+
+<p align="center">
+Algumas APIs que já integrei em projetos reais:
+</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="25%">
+<img src="assets/focus-nfe.png" width="90"/><br/>
+<b>Focus NFe</b><br/>
+<sub>Emissão de NF-e / NFS-e</sub>
+</td>
+<td align="center" width="25%">
+<img src="assets/viaCEP.png" width="90"/><br/>
+<b>ViaCEP</b><br/>
+<sub>Consulta de endereços</sub>
+</td>
+<td align="center" width="25%">
+<img src="assets/vindi-pagamentos.png" width="90"/><br/>
+<b>Vindi</b><br/>
+<sub>Pagamentos e assinaturas</sub>
+</td>
+<td align="center" width="25%">
+<img src="assets/groq2.webp" width="90"/><br/>
+<b>Groq</b><br/>
+<sub>Inferência de IA</sub>
+</td>
+</tr>
+</table>
+
 ## 🌎 Onde me encontrar
 
 <p align="center">
