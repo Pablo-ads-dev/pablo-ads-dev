@@ -1,41 +1,72 @@
-<h1 align="center">Hi there 👋, I'm Pablo</h1>
+<h1 align="center">Olá 👋, eu sou o Pablo</h1>
 
 <h3 align="center">
-FullStack Developer | PHP • Java • JavaScript
+Desenvolvedor Full Stack | PHP • Java • JavaScript
 </h3>
 
 <p align="center">
-Building scalable applications, APIs and business solutions.
+Construindo aplicações escaláveis, APIs e soluções para negócios.
 </p>
 
-##Backend
+---
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%">
+
+## 👨‍💻 Sobre mim
+
+<div style="background-color:#161B22;padding:20px;border-radius:10px;">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vitae sem vel lectus posuere fermentum. Suspendisse potenti. Integer volutpat, erat vitae feugiat consequat, neque nisl gravida elit, nec tincidunt tortor orci et justo. Duis tincidunt, tortor sed commodo pretium, ipsum ligula feugiat augue, quis egestas purus turpis sed turpis.
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Tecnologias
+
+### 💻 Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=php,java,nodejs" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,react" />
 </p>
 
-### Database
+### 🗄️ Banco de Dados
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
 
-### Tools
+### 🛠️ Ferramentas
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,postman" />
 </p>
 
-## 🚀 Main Projects
+---
 
+## 🚀 Principais Projetos
 
-## 🌎 Connect with Me
+Em breve...
+
+---
+
+## 🌎 Onde me encontrar
 
 <p>
 
@@ -48,6 +79,7 @@ Building scalable applications, APIs and business solutions.
 </a>
 
 </p>
+
 ---
 
 <p align="center">
