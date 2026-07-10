@@ -1,5 +1,6 @@
-
-<img src="terminalPablo.png" width="800" alt="Pablo Massao terminal banner"/>
+<div align="center">
+  <img src="terminalPablo.png" width="400" alt="Pablo Massao terminal banner"/>
+</div>
 <h3 align="center">
 Desenvolvedor Full Stack | PHP • JavaScript
 </h3>
