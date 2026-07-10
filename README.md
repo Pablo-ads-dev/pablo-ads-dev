@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou o Pablo</h1>
+<h1 align="center">Pablo Massao</h1>
 
 <h3 align="center">
 Desenvolvedor Full Stack | PHP • Java • JavaScript
@@ -20,7 +20,7 @@ Construindo aplicações escaláveis, APIs e soluções para negócios.
 
 <div style="background-color:#161B22;padding:20px;border-radius:10px;">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vitae sem vel lectus posuere fermentum. Suspendisse potenti. Integer volutpat, erat vitae feugiat consequat, neque nisl gravida elit, nec tincidunt tortor orci et justo. Duis tincidunt, tortor sed commodo pretium, ipsum ligula feugiat augue, quis egestas purus turpis sed turpis.
+Sou um desenvolvedor Full Stack apaixonado por tecnologia e por transformar ideias em soluções. Gosto de investir meu tempo construindo aplicações, desenvolvendo novas funcionalidades e, principalmente, resolvendo problemas. Estou sempre buscando evoluir, seja escrevendo código mais limpo, escalável e eficiente, seja aprimorando minhas habilidades de comunicação com usuários, clientes e equipes. Acredito que um bom software é resultado não apenas de boas práticas de desenvolvimento, mas também de colaboração, aprendizado contínuo e foco em entregar valor.
 
 </div>
 
