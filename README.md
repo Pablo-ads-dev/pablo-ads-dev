@@ -10,9 +10,6 @@ Construindo aplicações escaláveis, APIs e soluções para negócios.
 </p>
 
 <div align="center">
-
-## 👨‍💻 Sobre mim
-
 <table>
 <tr>
 
