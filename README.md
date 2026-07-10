@@ -7,17 +7,25 @@ Desenvolvedor Full Stack | PHP • JavaScript
 <p align="center">
 Construindo aplicações escaláveis, APIs e soluções para negócios.
 </p>
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="middle">
 <h3>👨‍💻&nbsp; Sobre mim</h3>
-<div align="justify">
-  
-Sou um desenvolvedor Full Stack apaixonado por tecnologia e por transformar ideias em soluções. Gosto de investir meu tempo construindo aplicações, desenvolvendo novas funcionalidades e, principalmente, resolvendo problemas.
-Estou sempre buscando evoluir — seja escrevendo código mais limpo, escalável e eficiente, seja aprimorando minhas habilidades de comunicação com usuários, clientes e equipes.
-Acredito que um bom software é resultado não apenas de boas práticas de desenvolvimento, mas também de colaboração, aprendizado contínuo e foco em entregar valor.
+phpclass AboutMe
+{
+    public string $name = "Pablo";
+    public array $pronouns = ["ele", "dele"];
 
-</div>
+    public string $profession = "Full Stack Developer";
+    public string $focus = "PHP • APIs • Sistemas fiscais (NFS-e)";
+
+    public array $preferredTechStack = ["php", "mysql", "javascript"];
+    public array $canUse = ["react", "docker", "postgres", "mongodb"];
+
+    public string $motto = "Bom software = boas práticas + colaboração + entrega de valor";
+}
+
 </td>
 </tr>
 </table>
