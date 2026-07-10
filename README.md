@@ -54,12 +54,6 @@ class AboutMe
 
 ---
 
-## 🚀 Principais Projetos
-
-Em breve...
-
----
-
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pablo-ads-dev/pablo-ads-dev/output/github-snake-dark.svg" />
