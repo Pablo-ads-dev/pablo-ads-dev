@@ -1,12 +1,12 @@
 <div align="center">
   <img src="banner_pablo.png" alt="Pablo Massao terminal banner"/>
 </div>
-<h3 align="center">
+<!-- <h3 align="center">
 Desenvolvedor Full Stack | PHP • JavaScript
 </h3>
 <p align="center">
 Construindo aplicações escaláveis, APIs e soluções para negócios.
-</p>
+</p> -->
 
 ```php
 class AboutMe
