@@ -1,7 +1,5 @@
 
-<p align="center">
-    <img src="terminalPablo.png" width="400">
-</p>
+
 
 <h3 align="center">
 Desenvolvedor Full Stack | PHP • JavaScript
@@ -13,19 +11,23 @@ Construindo aplicações escaláveis, APIs e soluções para negócios.
 
 <div align="center">
 
+## 👨‍💻 Sobre mim
+
 <table>
 <tr>
-<td width="100%">
+
+<td width="40%" align="center">
+<img src="terminalPablo.png" width="350">
+</td>
+
+<td width="60%" valign="middle">
 
 ## 👨‍💻 Sobre mim
 
-<div style="background-color:#161B22;padding:20px;border-radius:10px;">
-
 Sou um desenvolvedor Full Stack apaixonado por tecnologia e por transformar ideias em soluções. Gosto de investir meu tempo construindo aplicações, desenvolvendo novas funcionalidades e, principalmente, resolvendo problemas. Estou sempre buscando evoluir, seja escrevendo código mais limpo, escalável e eficiente, seja aprimorando minhas habilidades de comunicação com usuários, clientes e equipes. Acredito que um bom software é resultado não apenas de boas práticas de desenvolvimento, mas também de colaboração, aprendizado contínuo e foco em entregar valor.
 
-</div>
-
 </td>
+
 </tr>
 </table>
 
