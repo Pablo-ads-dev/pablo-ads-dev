@@ -8,20 +8,22 @@ Desenvolvedor Full Stack | PHP • JavaScript
 Construindo aplicações escaláveis, APIs e soluções para negócios.
 </p>
 
+```
+class AboutMe
 {
-  
+
     public string $name = "Pablo";
     public array $pronouns = ["ele", "dele"];
 
     public string $profession = "Full Stack Developer";
     public string $focus = "PHP • APIs • Sistemas fiscais (NFS-e)";
 
-    public array $preferredTechStack = ["php", "mysql", "javascript", "java"];
+    public array $preferredTechStack = ["php", "mysql", "javascript"];
     public array $canUse = ["react", "docker", "postgres", "mongodb"];
 
     public string $motto = "Bom software = boas práticas + colaboração + entrega de valor";
 }
-
+```
 ---
 
 ## 📊 Minhas estatísticas no GitHub
