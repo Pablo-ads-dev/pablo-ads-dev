@@ -8,37 +8,6 @@ FullStack Developer | PHP • Java • JavaScript
 Building scalable applications, APIs and business solutions.
 </p>
 
----
-
-## 🚀 About Me
-
-💻 Backend Software Engineer with experience developing ERP systems, fiscal integrations and REST APIs.
-
-🔭 Currently working with:
-- PHP
-- Java
-- MySQL
-- JavaScript
-- HTML & CSS
-
-🌱 Currently learning
-- Spring Boot
-- Docker
-- Microservices
-- AWS
-
-🎯 Interested in
-- Backend Development
-- Software Architecture
-- Cloud Computing
-- Performance Optimization
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-
 <p>
 <img src="https://skillicons.dev/icons?i=php,java,nodejs" />
 </p>
