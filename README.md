@@ -28,30 +28,10 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia e por transformar idei
 
 </div>
 
-## 🚀 Tecnologias
-
-### 💻 Backend
+### 💻 Técnologias
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,java,nodejs" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,react" />
-</p>
-
-### 🗄️ Banco de Dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-</p>
-
-### 🛠️ Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,postman" />
+<img src="https://skillicons.dev/icons?i=php,java,nodejs,js,html,css,bootstrap,jquery,react,mysql,mongodb,postgres,git,github,vscode,idea,docker,postman" />
 </p>
 
 ---
