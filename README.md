@@ -1,5 +1,7 @@
 
-<img src="terminalPablo.png" width="350">
+<p align="center">
+    <img src="terminalPablo.png" width="400">
+</p>
 
 <h3 align="center">
 Desenvolvedor Full Stack | PHP • JavaScript
