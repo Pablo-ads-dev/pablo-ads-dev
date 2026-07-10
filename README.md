@@ -29,6 +29,14 @@ Acredito que um bom software é resultado não apenas de boas práticas de desen
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablo-ads-dev&theme=tokyo-night" />
   <img src="https://streak-stats.demolab.com/?user=pablo-ads-dev&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<!-- 🐍 Cobrinha que come os commits — gerada automaticamente pela GitHub Action abaixo -->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pablo-ads-dev/pablo-ads-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pablo-ads-dev/pablo-ads-dev/output/github-snake.svg" />
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/pablo-ads-dev/pablo-ads-dev/output/github-snake.svg" />
+</picture>
+</p>
 
    <!-- 
    <img height="165" src="https://github-profile-trophy.vercel.app/?username=pablo-ads-dev&theme=tokyonight" />
@@ -68,15 +76,6 @@ Em breve...
 </p>
 
 ---
-
-<!-- 🐍 Cobrinha que come os commits — gerada automaticamente pela GitHub Action abaixo -->
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pablo-ads-dev/pablo-ads-dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pablo-ads-dev/pablo-ads-dev/output/github-snake.svg" />
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/pablo-ads-dev/pablo-ads-dev/output/github-snake.svg" />
-</picture>
-</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=pablo-ads-dev&color=blue&style=flat-square"/>
