@@ -16,7 +16,6 @@ class AboutMe
     public array $pronouns = ["ele", "dele"];
 
     public string $profession = "Full Stack Developer";
-    public string $focus = "PHP • APIs • Sistemas fiscais (NFS-e)";
 
     public array $preferredTechStack = ["php", "mysql", "javascript"];
     public array $canUse = ["react", "docker", "postgres", "mongodb"];
