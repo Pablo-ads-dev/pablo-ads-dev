@@ -29,8 +29,8 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia e por transformar idei
 ## 📊 Minhas estatísticas no GitHub
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pablo-ads-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-ads-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pablo-ads-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-ads-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
