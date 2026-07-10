@@ -37,9 +37,9 @@ class AboutMe
 <!-- 🐍 Cobrinha que come os commits — gerada automaticamente pela GitHub Action abaixo -->
 
 
-   <img height="165" src="https://github-profile-trophy.vercel.app/?username=pablo-ads-dev&theme=tokyonight" />
+   <!-- <img height="165" src="https://github-profile-trophy.vercel.app/?username=pablo-ads-dev&theme=tokyonight" />
    <img height="165" src="https://github-readme-stats.vercel.app/api?username=pablo-ads-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-ads-dev&layout=compact&theme=tokyonight&hide_border=true" /> 
+   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-ads-dev&layout=compact&theme=tokyonight&hide_border=true" /> -->
 </div>
 
 
