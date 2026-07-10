@@ -32,85 +32,8 @@ Building scalable applications, APIs and business solutions.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,postman" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🚀 Main Projects
 
-### 📌 ERP System
-
-- Customer Management
-- Inventory
-- Financial Module
-- Scheduling
-- Reports
-
----
-
-### 📌 Fiscal Integrations
-
-✔ NFS-e
-
-✔ NFC-e
-
-✔ NFe
-
-✔ REST APIs
-
-✔ XML Processing
-
----
-
-### 📌 Backend Development
-
-- REST APIs
-- Authentication
-- Database Modeling
-- SQL Optimization
-- Batch Processing
-
----
-
-## 📈 Experience
-
-```text
-Backend Development   ████████████████████ 100%
-
-PHP                   ████████████████████
-
-Java                  ████████████████░░░░
-
-JavaScript            █████████████████░░░
-
-MySQL                 ███████████████████░
-
-HTML/CSS              ███████████████████░
-```
-
----
 
 ## 🌎 Connect with Me
 
@@ -125,13 +48,6 @@ HTML/CSS              ███████████████████�
 </a>
 
 </p>
-
----
-
-## 💡 Quote
-
-> "First, solve the problem. Then, write the code."
-
 ---
 
 <p align="center">
