@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou o Pablo 👋</h1>
+<img src="terminalPablo.png" width="800" alt="Pablo Massao terminal banner"/>
 <h3 align="center">
 Desenvolvedor Full Stack | PHP • JavaScript
 </h3>
@@ -8,11 +8,7 @@ Construindo aplicações escaláveis, APIs e soluções para negócios.
 </p>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="38%" align="center" valign="middle">
-<img src="terminalPablo.png" width="320" alt="Pablo Massao terminal banner"/>
-<br/>
-</td>
-<td width="62%" valign="middle">
+<td valign="middle">
 <h3>👨‍💻&nbsp; Sobre mim</h3>
 <div align="justify">
   
