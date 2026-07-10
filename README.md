@@ -8,7 +8,7 @@ Desenvolvedor Full Stack | PHP • JavaScript
 Construindo aplicações escaláveis, APIs e soluções para negócios.
 </p>
 
-```
+```php
 class AboutMe
 {
 
