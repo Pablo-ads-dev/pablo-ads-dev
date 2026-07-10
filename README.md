@@ -30,14 +30,17 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia e por transformar idei
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablo-ads-dev&theme=tokyo-night" />
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=pablo-ads-dev&theme=tokyonight" />
-   <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=pablo-ads-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-ads-dev&layout=compact&theme=tokyonight&hide_border=true" /> -->
+  <img src="https://streak-stats.demolab.com/?user=pablo-ads-dev&theme=tokyonight&hide_border=true" alt="streak stats"/>
+
+   <!-- 
+   <img height="165" src="https://github-profile-trophy.vercel.app/?username=pablo-ads-dev&theme=tokyonight" />
+   <img height="165" src="https://github-readme-stats.vercel.app/api?username=pablo-ads-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-ads-dev&layout=compact&theme=tokyonight&hide_border=true" /> 
+   -->
 </div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=pablo-ads-dev&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</div>
+<!-- <div align="center">
+</div> -->
 
 ---
 
