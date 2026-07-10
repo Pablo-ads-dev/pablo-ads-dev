@@ -1,10 +1,8 @@
-
-
+<h1 align="center">Olá, eu sou o Pablo 👋</h1>
 
 <h3 align="center">
 Desenvolvedor Full Stack | PHP • JavaScript
 </h3>
-
 <p align="center">
 Construindo aplicações escaláveis, APIs e soluções para negócios.
 </p>
@@ -12,11 +10,9 @@ Construindo aplicações escaláveis, APIs e soluções para negócios.
 <div align="center">
 <table>
 <tr>
-
 <td width="40%" align="center">
 <img src="terminalPablo.png" width="350">
 </td>
-
 <td width="60%" valign="middle">
 
 ## 👨‍💻 Sobre mim
@@ -24,15 +20,30 @@ Construindo aplicações escaláveis, APIs e soluções para negócios.
 Sou um desenvolvedor Full Stack apaixonado por tecnologia e por transformar ideias em soluções. Gosto de investir meu tempo construindo aplicações, desenvolvendo novas funcionalidades e, principalmente, resolvendo problemas. Estou sempre buscando evoluir, seja escrevendo código mais limpo, escalável e eficiente, seja aprimorando minhas habilidades de comunicação com usuários, clientes e equipes. Acredito que um bom software é resultado não apenas de boas práticas de desenvolvimento, mas também de colaboração, aprendizado contínuo e foco em entregar valor.
 
 </td>
-
 </tr>
 </table>
-
 </div>
 
-### 💻 Técnologias
+---
 
-<p>
+## 📊 Minhas estatísticas no GitHub
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-ads-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</div>
+
+> A "nota" (rank A+, A, B+...) no primeiro card é calculada pelo github-readme-stats com base em commits, PRs, issues, reviews e estrelas recebidas — é isso que costuma aparecer nos perfis mais "badge-heavy" do GitHub.
+
+---
+
+### 💻 Tecnologias
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=php,java,nodejs,js,html,css,bootstrap,jquery,react,mysql,mongodb,postgres,git,github,vscode,idea,docker,postman" />
 </p>
 
@@ -46,22 +57,26 @@ Em breve...
 
 ## 🌎 Onde me encontrar
 
-<p>
-
-<a href="https://linkedin.com/in/SEU_LINK">
+<p align="center">
+<a href="https://www.linkedin.com/in/pablo-massao-3642b22bb/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:pabloadsdev@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
 </p>
 
 ---
 
+<!-- 🐍 Cobrinha que come os commits — gerada automaticamente pela GitHub Action abaixo -->
 <p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pablo-ads-dev/pablo-ads-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pablo-ads-dev/pablo-ads-dev/output/github-snake.svg" />
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/pablo-ads-dev/pablo-ads-dev/output/github-snake.svg" />
+</picture>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue&style=flat-square"/>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pablo-ads-dev&color=blue&style=flat-square"/>
 </p>
