@@ -7,30 +7,41 @@ Desenvolvedor Full Stack | PHP • JavaScript
 Construindo aplicações escaláveis, APIs e soluções para negócios.
 </p>
 
-<div align="center">
-<table>
+<h1 align="center">Olá, eu sou o Pablo 👋</h1>
+<h3 align="center">
+Desenvolvedor Full Stack | PHP • JavaScript
+</h3>
+<p align="center">
+Construindo aplicações escaláveis, APIs e soluções para negócios.
+</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="40%" align="center">
-<img src="terminalPablo.png" width="350">
+<td width="38%" align="center" valign="middle">
+<img src="terminalPablo.png" width="320" alt="Pablo Massao terminal banner"/>
+<br/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
 </td>
-<td width="60%" valign="middle">
+<td width="62%" valign="middle">
+<h3>👨‍💻&nbsp; Sobre mim</h3>
+<div align="justify">
+  
+Sou um desenvolvedor Full Stack apaixonado por tecnologia e por transformar ideias em soluções. Gosto de investir meu tempo construindo aplicações, desenvolvendo novas funcionalidades e, principalmente, resolvendo problemas.
+Estou sempre buscando evoluir — seja escrevendo código mais limpo, escalável e eficiente, seja aprimorando minhas habilidades de comunicação com usuários, clientes e equipes.
+Acredito que um bom software é resultado não apenas de boas práticas de desenvolvimento, mas também de colaboração, aprendizado contínuo e foco em entregar valor.
 
-## 👨‍💻 Sobre mim
-
-Sou um desenvolvedor Full Stack apaixonado por tecnologia e por transformar ideias em soluções. Gosto de investir meu tempo construindo aplicações, desenvolvendo novas funcionalidades e, principalmente, resolvendo problemas. Estou sempre buscando evoluir, seja escrevendo código mais limpo, escalável e eficiente, seja aprimorando minhas habilidades de comunicação com usuários, clientes e equipes. Acredito que um bom software é resultado não apenas de boas práticas de desenvolvimento, mas também de colaboração, aprendizado contínuo e foco em entregar valor.
-
+</div>
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
 ## 📊 Minhas estatísticas no GitHub
 
 <div align="center">
-  <img height="225" src="https://github-readme-activity-graph.vercel.app/graph?username=pablo-ads-dev&theme=tokyo-night" />
-  <img height="225" src="https://streak-stats.demolab.com/?user=pablo-ads-dev&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablo-ads-dev&theme=tokyo-night" />
+  <img src="https://streak-stats.demolab.com/?user=pablo-ads-dev&theme=tokyonight&hide_border=true" alt="streak stats"/>
 
    <!-- 
    <img height="165" src="https://github-profile-trophy.vercel.app/?username=pablo-ads-dev&theme=tokyonight" />
