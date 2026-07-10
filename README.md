@@ -1,14 +1,12 @@
 <h1 align="center">Pablo Massao</h1>
 
 <h3 align="center">
-Desenvolvedor Full Stack | PHP • Java • JavaScript
+Desenvolvedor Full Stack | PHP • JavaScript
 </h3>
 
 <p align="center">
 Construindo aplicações escaláveis, APIs e soluções para negócios.
 </p>
-
----
 
 <div align="center">
 
@@ -29,8 +27,6 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia e por transformar idei
 </table>
 
 </div>
-
----
 
 ## 🚀 Tecnologias
 
