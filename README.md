@@ -1,11 +1,3 @@
-<h1 align="center">Olá, eu sou o Pablo 👋</h1>
-
-<h3 align="center">
-Desenvolvedor Full Stack | PHP • JavaScript
-</h3>
-<p align="center">
-Construindo aplicações escaláveis, APIs e soluções para negócios.
-</p>
 
 <h1 align="center">Olá, eu sou o Pablo 👋</h1>
 <h3 align="center">
@@ -19,8 +11,6 @@ Construindo aplicações escaláveis, APIs e soluções para negócios.
 <td width="38%" align="center" valign="middle">
 <img src="terminalPablo.png" width="320" alt="Pablo Massao terminal banner"/>
 <br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
 </td>
 <td width="62%" valign="middle">
 <h3>👨‍💻&nbsp; Sobre mim</h3>
